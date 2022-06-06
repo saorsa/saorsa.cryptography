@@ -19,7 +19,7 @@
     <ItemGroup>
       <None Include="..\..\assets\saorsa-64x64.png">
         <Pack>True</Pack>
-        <PackagePath></PackagePath>
+        <PackagePath />
         <Link>saorsa-64x64.png</Link>
       </None>
     </ItemGroup>
