@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saorsa.Cryptography", "Saorsa.Cryptography\Saorsa.Cryptography.csproj", "{83A9E881-91F8-4117-83E6-AB353574B614}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{E42C4D33-C41C-4D3E-BBD7-2985C7E5D09F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saorsa.Cryptography.Tests", "..\tests\Saorsa.Cryptography.Tests\Saorsa.Cryptography.Tests.csproj", "{5867905B-7EF6-4A2E-90AD-996A114BFA76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83A9E881-91F8-4117-83E6-AB353574B614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A9E881-91F8-4117-83E6-AB353574B614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A9E881-91F8-4117-83E6-AB353574B614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A9E881-91F8-4117-83E6-AB353574B614}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5867905B-7EF6-4A2E-90AD-996A114BFA76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5867905B-7EF6-4A2E-90AD-996A114BFA76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5867905B-7EF6-4A2E-90AD-996A114BFA76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5867905B-7EF6-4A2E-90AD-996A114BFA76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5867905B-7EF6-4A2E-90AD-996A114BFA76} = {E42C4D33-C41C-4D3E-BBD7-2985C7E5D09F}
+	EndGlobalSection
+EndGlobal
